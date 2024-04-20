@@ -1,1 +1,4 @@
-# Failed-Banks
+# Failed Banks
+
+**Description:**
+The dataset contains information on failed banks since October 1, 2000, with details including the bank name, city, state, certification number, acquiring institution, closing date, and fund. It offers valuable insights into trends in bank closures over time, geographic patterns in bank stability, and the consolidation of the banking sector through acquisitions. Researchers can utilize this dataset to conduct temporal analyses, examining trends in closures over the years, as well as geographical analyses to identify regions with higher incidences of bank failures. Additionally, the dataset facilitates institutional analyses, allowing investigation into the most active acquiring institutions involved in taking over failing banks. Such analyses can inform policymakers and stakeholders about potential financial risks and aid in the development of strategies to mitigate them.
